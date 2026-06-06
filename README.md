@@ -159,8 +159,8 @@ If you like this project, please consider giving it a ⭐ on GitHub!
 
 Have a question or want to collaborate? Feel free to reach out:
 - Open an issue in the repository
-- Send an email to [your-email@example.com]
-- Connect on [LinkedIn/Twitter/Other]
+- Send an email to adinarayan736@gmail.com
+- Connect on www.linkedin.com/in/adi-narayan-prasad-512ab1325
 
 ---
 
